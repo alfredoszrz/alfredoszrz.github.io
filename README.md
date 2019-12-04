@@ -1,2 +1,2 @@
 # alfredoszrz.github.io
-Learning to use GitHub Pages
+Just learning how to use GitHub Pages
